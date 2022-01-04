@@ -2,7 +2,7 @@
 
 ## Project setup and launch.
 
-Download the repo, open the root repo directory in console and type.
+Download the repo, open the root repo directory using console and type.
 
 ```
 npm install
