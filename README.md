@@ -1,20 +1,20 @@
-# Cool 'Travel Site' main page layout
+# Cool 'Travel Site' main page layout on Stylus (https://stylus-lang.com/)
 
-## Установка и запуск проекта
+## Project setup and launch.
 
-Скачиваете проект, заходите в него через консоль.
+Download the repo, open the root repo directory in console and type.
 
 ```
 npm install
 npm run dev
 ```
 
-либо, если у вас настроены Make-файлы
+or, if you have Make-files set up
 ```
 make dev
 ```
 
-После запуска, заходите в браузер и проверяете, что есть доступ к http://localhost:8080.
+Afte launch, open the browser and check if you have access to http://localhost:8080.
 
-### Many Thanks to @liveldi for prototype and layout lesson
+### Many Thanks to @liveldi for prototype and layout lessons
 
