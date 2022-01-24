@@ -1,4 +1,4 @@
-# Cool 'Travel Site' main page layout on Stylus (https://stylus-lang.com/)
+# Cool 'Travel Site' main page layout on [Stylus](https://stylus-lang.com/)
 
 ## Project setup and launch.
 
